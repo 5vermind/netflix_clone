@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## clone netflix ui
 
-first flutter clone coding 
+first flutter clone coding  
 src: https://www.youtube.com/playlist?list=PL3ilpnPyonYfl82dvBq5fiDD-d4PkRte3, https://github.com/TaeBbong/netflix-clone-lecture
 
 using flutterfire https://firebase.flutter.dev/
